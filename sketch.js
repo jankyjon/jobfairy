@@ -31,12 +31,9 @@ function setup() {
 function draw() {
   // put drawing code here
 
-if (mouseIsPressed) {
-
-
-
-
-}
+// if (mouseIsPressed) {
+//
+// }
 }
 
 
